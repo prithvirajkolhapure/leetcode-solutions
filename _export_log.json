@@ -1,0 +1,587 @@
+[
+  {
+    "problem": "find-all-anagrams-in-a-string",
+    "lang": "java",
+    "file": "leetcode_export/java/find-all-anagrams-in-a-string.java"
+  },
+  {
+    "problem": "koko-eating-bananas",
+    "lang": "java",
+    "file": "leetcode_export/java/koko-eating-bananas.java"
+  },
+  {
+    "problem": "search-a-2d-matrix",
+    "lang": "java",
+    "file": "leetcode_export/java/search-a-2d-matrix.java"
+  },
+  {
+    "problem": "search-in-rotated-sorted-array",
+    "lang": "java",
+    "file": "leetcode_export/java/search-in-rotated-sorted-array.java"
+  },
+  {
+    "problem": "sqrtx",
+    "lang": "java",
+    "file": "leetcode_export/java/sqrtx.java"
+  },
+  {
+    "problem": "binary-search",
+    "lang": "java",
+    "file": "leetcode_export/java/binary-search.java"
+  },
+  {
+    "problem": "permutation-in-string",
+    "lang": "java",
+    "file": "leetcode_export/java/permutation-in-string.java"
+  },
+  {
+    "problem": "longest-substring-without-repeating-characters",
+    "lang": "java",
+    "file": "leetcode_export/java/longest-substring-without-repeating-characters.java"
+  },
+  {
+    "problem": "stone-game",
+    "lang": "java",
+    "file": "leetcode_export/java/stone-game.java"
+  },
+  {
+    "problem": "palindromic-substrings",
+    "lang": "java",
+    "file": "leetcode_export/java/palindromic-substrings.java"
+  },
+  {
+    "problem": "longest-palindromic-substring",
+    "lang": "java",
+    "file": "leetcode_export/java/longest-palindromic-substring.java"
+  },
+  {
+    "problem": "valid-palindrome",
+    "lang": "java",
+    "file": "leetcode_export/java/valid-palindrome.java"
+  },
+  {
+    "problem": "reverse-string",
+    "lang": "java",
+    "file": "leetcode_export/java/reverse-string.java"
+  },
+  {
+    "problem": "maximum-absolute-sum-of-any-subarray",
+    "lang": "java",
+    "file": "leetcode_export/java/maximum-absolute-sum-of-any-subarray.java"
+  },
+  {
+    "problem": "maximum-product-subarray",
+    "lang": "java",
+    "file": "leetcode_export/java/maximum-product-subarray.java"
+  },
+  {
+    "problem": "subarray-sums-divisible-by-k",
+    "lang": "java",
+    "file": "leetcode_export/java/subarray-sums-divisible-by-k.java"
+  },
+  {
+    "problem": "subarrays-with-k-different-integers",
+    "lang": "java",
+    "file": "leetcode_export/java/subarrays-with-k-different-integers.java"
+  },
+  {
+    "problem": "sliding-window-maximum",
+    "lang": "java",
+    "file": "leetcode_export/java/sliding-window-maximum.java"
+  },
+  {
+    "problem": "continuous-subarray-sum",
+    "lang": "java",
+    "file": "leetcode_export/java/continuous-subarray-sum.java"
+  },
+  {
+    "problem": "add-two-integers",
+    "lang": "java",
+    "file": "leetcode_export/java/add-two-integers.java"
+  },
+  {
+    "problem": "product-of-array-except-self",
+    "lang": "java",
+    "file": "leetcode_export/java/product-of-array-except-self.java"
+  },
+  {
+    "problem": "subarray-sum-equals-k",
+    "lang": "java",
+    "file": "leetcode_export/java/subarray-sum-equals-k.java"
+  },
+  {
+    "problem": "find-pivot-index",
+    "lang": "java",
+    "file": "leetcode_export/java/find-pivot-index.java"
+  },
+  {
+    "problem": "fruit-into-baskets",
+    "lang": "java",
+    "file": "leetcode_export/java/fruit-into-baskets.java"
+  },
+  {
+    "problem": "minimum-size-subarray-sum",
+    "lang": "java",
+    "file": "leetcode_export/java/minimum-size-subarray-sum.java"
+  },
+  {
+    "problem": "minimum-remove-to-make-valid-parentheses",
+    "lang": "java",
+    "file": "leetcode_export/java/minimum-remove-to-make-valid-parentheses.java"
+  },
+  {
+    "problem": "smallest-subsequence-of-distinct-characters",
+    "lang": "java",
+    "file": "leetcode_export/java/smallest-subsequence-of-distinct-characters.java"
+  },
+  {
+    "problem": "subarray-product-less-than-k",
+    "lang": "java",
+    "file": "leetcode_export/java/subarray-product-less-than-k.java"
+  },
+  {
+    "problem": "max-consecutive-ones-iii",
+    "lang": "java",
+    "file": "leetcode_export/java/max-consecutive-ones-iii.java"
+  },
+  {
+    "problem": "top-k-frequent-elements",
+    "lang": "java",
+    "file": "leetcode_export/java/top-k-frequent-elements.java"
+  },
+  {
+    "problem": "remove-duplicate-letters",
+    "lang": "java",
+    "file": "leetcode_export/java/remove-duplicate-letters.java"
+  },
+  {
+    "problem": "remove-k-digits",
+    "lang": "java",
+    "file": "leetcode_export/java/remove-k-digits.java"
+  },
+  {
+    "problem": "min-stack",
+    "lang": "java",
+    "file": "leetcode_export/java/min-stack.java"
+  },
+  {
+    "problem": "implement-stack-using-queues",
+    "lang": "java",
+    "file": "leetcode_export/java/implement-stack-using-queues.java"
+  },
+  {
+    "problem": "implement-queue-using-stacks",
+    "lang": "java",
+    "file": "leetcode_export/java/implement-queue-using-stacks.java"
+  },
+  {
+    "problem": "score-of-parentheses",
+    "lang": "java",
+    "file": "leetcode_export/java/score-of-parentheses.java"
+  },
+  {
+    "problem": "make-the-string-great",
+    "lang": "java",
+    "file": "leetcode_export/java/make-the-string-great.java"
+  },
+  {
+    "problem": "remove-all-adjacent-duplicates-in-string",
+    "lang": "java",
+    "file": "leetcode_export/java/remove-all-adjacent-duplicates-in-string.java"
+  },
+  {
+    "problem": "backspace-string-compare",
+    "lang": "java",
+    "file": "leetcode_export/java/backspace-string-compare.java"
+  },
+  {
+    "problem": "basic-calculator",
+    "lang": "java",
+    "file": "leetcode_export/java/basic-calculator.java"
+  },
+  {
+    "problem": "decode-string",
+    "lang": "java",
+    "file": "leetcode_export/java/decode-string.java"
+  },
+  {
+    "problem": "evaluate-reverse-polish-notation",
+    "lang": "java",
+    "file": "leetcode_export/java/evaluate-reverse-polish-notation.java"
+  },
+  {
+    "problem": "basic-calculator-ii",
+    "lang": "java",
+    "file": "leetcode_export/java/basic-calculator-ii.java"
+  },
+  {
+    "problem": "largest-rectangle-in-histogram",
+    "lang": "java",
+    "file": "leetcode_export/java/largest-rectangle-in-histogram.java"
+  },
+  {
+    "problem": "asteroid-collision",
+    "lang": "java",
+    "file": "leetcode_export/java/asteroid-collision.java"
+  },
+  {
+    "problem": "online-stock-span",
+    "lang": "java",
+    "file": "leetcode_export/java/online-stock-span.java"
+  },
+  {
+    "problem": "daily-temperatures",
+    "lang": "java",
+    "file": "leetcode_export/java/daily-temperatures.java"
+  },
+  {
+    "problem": "next-greater-element-ii",
+    "lang": "java",
+    "file": "leetcode_export/java/next-greater-element-ii.java"
+  },
+  {
+    "problem": "next-greater-element-i",
+    "lang": "java",
+    "file": "leetcode_export/java/next-greater-element-i.java"
+  },
+  {
+    "problem": "minimum-add-to-make-parentheses-valid",
+    "lang": "java",
+    "file": "leetcode_export/java/minimum-add-to-make-parentheses-valid.java"
+  },
+  {
+    "problem": "valid-parentheses",
+    "lang": "java",
+    "file": "leetcode_export/java/valid-parentheses.java"
+  },
+  {
+    "problem": "minimum-string-length-after-removing-substrings",
+    "lang": "java",
+    "file": "leetcode_export/java/minimum-string-length-after-removing-substrings.java"
+  },
+  {
+    "problem": "sort-list",
+    "lang": "java",
+    "file": "leetcode_export/java/sort-list.java"
+  },
+  {
+    "problem": "container-with-most-water",
+    "lang": "java",
+    "file": "leetcode_export/java/container-with-most-water.java"
+  },
+  {
+    "problem": "two-sum-ii-input-array-is-sorted",
+    "lang": "java",
+    "file": "leetcode_export/java/two-sum-ii-input-array-is-sorted.java"
+  },
+  {
+    "problem": "climbing-stairs",
+    "lang": "java",
+    "file": "leetcode_export/java/climbing-stairs.java"
+  },
+  {
+    "problem": "fibonacci-number",
+    "lang": "java",
+    "file": "leetcode_export/java/fibonacci-number.java"
+  },
+  {
+    "problem": "powx-n",
+    "lang": "java",
+    "file": "leetcode_export/java/powx-n.java"
+  },
+  {
+    "problem": "remove-nodes-from-linked-list",
+    "lang": "java",
+    "file": "leetcode_export/java/remove-nodes-from-linked-list.java"
+  },
+  {
+    "problem": "add-two-numbers",
+    "lang": "java",
+    "file": "leetcode_export/java/add-two-numbers.java"
+  },
+  {
+    "problem": "remove-duplicates-from-sorted-list-ii",
+    "lang": "java",
+    "file": "leetcode_export/java/remove-duplicates-from-sorted-list-ii.java"
+  },
+  {
+    "problem": "reorder-list",
+    "lang": "java",
+    "file": "leetcode_export/java/reorder-list.java"
+  },
+  {
+    "problem": "odd-even-linked-list",
+    "lang": "java",
+    "file": "leetcode_export/java/odd-even-linked-list.java"
+  },
+  {
+    "problem": "remove-duplicates-from-sorted-list",
+    "lang": "java",
+    "file": "leetcode_export/java/remove-duplicates-from-sorted-list.java"
+  },
+  {
+    "problem": "merge-two-sorted-lists",
+    "lang": "java",
+    "file": "leetcode_export/java/merge-two-sorted-lists.java"
+  },
+  {
+    "problem": "rotate-list",
+    "lang": "java",
+    "file": "leetcode_export/java/rotate-list.java"
+  },
+  {
+    "problem": "swap-nodes-in-pairs",
+    "lang": "java",
+    "file": "leetcode_export/java/swap-nodes-in-pairs.java"
+  },
+  {
+    "problem": "reverse-linked-list-ii",
+    "lang": "java",
+    "file": "leetcode_export/java/reverse-linked-list-ii.java"
+  },
+  {
+    "problem": "palindrome-linked-list",
+    "lang": "java",
+    "file": "leetcode_export/java/palindrome-linked-list.java"
+  },
+  {
+    "problem": "reverse-linked-list",
+    "lang": "java",
+    "file": "leetcode_export/java/reverse-linked-list.java"
+  },
+  {
+    "problem": "linked-list-cycle-ii",
+    "lang": "java",
+    "file": "leetcode_export/java/linked-list-cycle-ii.java"
+  },
+  {
+    "problem": "linked-list-cycle",
+    "lang": "java",
+    "file": "leetcode_export/java/linked-list-cycle.java"
+  },
+  {
+    "problem": "middle-of-the-linked-list",
+    "lang": "java",
+    "file": "leetcode_export/java/middle-of-the-linked-list.java"
+  },
+  {
+    "problem": "design-linked-list",
+    "lang": "java",
+    "file": "leetcode_export/java/design-linked-list.java"
+  },
+  {
+    "problem": "intersection-of-two-linked-lists",
+    "lang": "java",
+    "file": "leetcode_export/java/intersection-of-two-linked-lists.java"
+  },
+  {
+    "problem": "remove-nth-node-from-end-of-list",
+    "lang": "java",
+    "file": "leetcode_export/java/remove-nth-node-from-end-of-list.java"
+  },
+  {
+    "problem": "delete-node-in-a-linked-list",
+    "lang": "java",
+    "file": "leetcode_export/java/delete-node-in-a-linked-list.java"
+  },
+  {
+    "problem": "string-to-integer-atoi",
+    "lang": "java",
+    "file": "leetcode_export/java/string-to-integer-atoi.java"
+  },
+  {
+    "problem": "reverse-words-in-a-string",
+    "lang": "java",
+    "file": "leetcode_export/java/reverse-words-in-a-string.java"
+  },
+  {
+    "problem": "roman-to-integer",
+    "lang": "java",
+    "file": "leetcode_export/java/roman-to-integer.java"
+  },
+  {
+    "problem": "maximum-nesting-depth-of-the-parentheses",
+    "lang": "java",
+    "file": "leetcode_export/java/maximum-nesting-depth-of-the-parentheses.java"
+  },
+  {
+    "problem": "sort-characters-by-frequency",
+    "lang": "java",
+    "file": "leetcode_export/java/sort-characters-by-frequency.java"
+  },
+  {
+    "problem": "valid-anagram",
+    "lang": "java",
+    "file": "leetcode_export/java/valid-anagram.java"
+  },
+  {
+    "problem": "rotate-string",
+    "lang": "java",
+    "file": "leetcode_export/java/rotate-string.java"
+  },
+  {
+    "problem": "isomorphic-strings",
+    "lang": "java",
+    "file": "leetcode_export/java/isomorphic-strings.java"
+  },
+  {
+    "problem": "isomorphic-strings",
+    "lang": "python3",
+    "file": "leetcode_export/python3/isomorphic-strings.py"
+  },
+  {
+    "problem": "longest-common-prefix",
+    "lang": "java",
+    "file": "leetcode_export/java/longest-common-prefix.java"
+  },
+  {
+    "problem": "largest-odd-number-in-string",
+    "lang": "java",
+    "file": "leetcode_export/java/largest-odd-number-in-string.java"
+  },
+  {
+    "problem": "valid-palindrome-ii",
+    "lang": "java",
+    "file": "leetcode_export/java/valid-palindrome-ii.java"
+  },
+  {
+    "problem": "best-time-to-buy-and-sell-stock",
+    "lang": "java",
+    "file": "leetcode_export/java/best-time-to-buy-and-sell-stock.java"
+  },
+  {
+    "problem": "find-peak-element",
+    "lang": "java",
+    "file": "leetcode_export/java/find-peak-element.java"
+  },
+  {
+    "problem": "single-element-in-a-sorted-array",
+    "lang": "java",
+    "file": "leetcode_export/java/single-element-in-a-sorted-array.java"
+  },
+  {
+    "problem": "find-minimum-in-rotated-sorted-array",
+    "lang": "java",
+    "file": "leetcode_export/java/find-minimum-in-rotated-sorted-array.java"
+  },
+  {
+    "problem": "search-in-rotated-sorted-array-ii",
+    "lang": "java",
+    "file": "leetcode_export/java/search-in-rotated-sorted-array-ii.java"
+  },
+  {
+    "problem": "find-first-and-last-position-of-element-in-sorted-array",
+    "lang": "java",
+    "file": "leetcode_export/java/find-first-and-last-position-of-element-in-sorted-array.java"
+  },
+  {
+    "problem": "search-insert-position",
+    "lang": "java",
+    "file": "leetcode_export/java/search-insert-position.java"
+  },
+  {
+    "problem": "contains-duplicate",
+    "lang": "java",
+    "file": "leetcode_export/java/contains-duplicate.java"
+  },
+  {
+    "problem": "remove-outermost-parentheses",
+    "lang": "java",
+    "file": "leetcode_export/java/remove-outermost-parentheses.java"
+  },
+  {
+    "problem": "majority-element-ii",
+    "lang": "java",
+    "file": "leetcode_export/java/majority-element-ii.java"
+  },
+  {
+    "problem": "pascals-triangle",
+    "lang": "java",
+    "file": "leetcode_export/java/pascals-triangle.java"
+  },
+  {
+    "problem": "maximum-subarray",
+    "lang": "java",
+    "file": "leetcode_export/java/maximum-subarray.java"
+  },
+  {
+    "problem": "spiral-matrix",
+    "lang": "java",
+    "file": "leetcode_export/java/spiral-matrix.java"
+  },
+  {
+    "problem": "rotate-image",
+    "lang": "java",
+    "file": "leetcode_export/java/rotate-image.java"
+  },
+  {
+    "problem": "set-matrix-zeroes",
+    "lang": "java",
+    "file": "leetcode_export/java/set-matrix-zeroes.java"
+  },
+  {
+    "problem": "longest-consecutive-sequence",
+    "lang": "java",
+    "file": "leetcode_export/java/longest-consecutive-sequence.java"
+  },
+  {
+    "problem": "next-permutation",
+    "lang": "java",
+    "file": "leetcode_export/java/next-permutation.java"
+  },
+  {
+    "problem": "rearrange-array-elements-by-sign",
+    "lang": "java",
+    "file": "leetcode_export/java/rearrange-array-elements-by-sign.java"
+  },
+  {
+    "problem": "majority-element",
+    "lang": "java",
+    "file": "leetcode_export/java/majority-element.java"
+  },
+  {
+    "problem": "sort-colors",
+    "lang": "java",
+    "file": "leetcode_export/java/sort-colors.java"
+  },
+  {
+    "problem": "two-sum",
+    "lang": "java",
+    "file": "leetcode_export/java/two-sum.java"
+  },
+  {
+    "problem": "single-number",
+    "lang": "java",
+    "file": "leetcode_export/java/single-number.java"
+  },
+  {
+    "problem": "max-consecutive-ones",
+    "lang": "java",
+    "file": "leetcode_export/java/max-consecutive-ones.java"
+  },
+  {
+    "problem": "missing-number",
+    "lang": "java",
+    "file": "leetcode_export/java/missing-number.java"
+  },
+  {
+    "problem": "move-zeroes",
+    "lang": "java",
+    "file": "leetcode_export/java/move-zeroes.java"
+  },
+  {
+    "problem": "rotate-array",
+    "lang": "java",
+    "file": "leetcode_export/java/rotate-array.java"
+  },
+  {
+    "problem": "plus-one",
+    "lang": "java",
+    "file": "leetcode_export/java/plus-one.java"
+  },
+  {
+    "problem": "remove-duplicates-from-sorted-array",
+    "lang": "java",
+    "file": "leetcode_export/java/remove-duplicates-from-sorted-array.java"
+  }
+]
