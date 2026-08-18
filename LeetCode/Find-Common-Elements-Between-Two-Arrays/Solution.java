@@ -1,27 +1,26 @@
 1class Solution {
 2    public int[] findIntersectionValues(int[] nums1, int[] nums2) {
-3        int ans1=0,ans2=0;
-4        HashMap<Integer,Integer> map1=new HashMap<>();
-5        for(int i=0;i<nums1.length;i++)
-6            map1.put(nums1[i],map1.getOrDefault(nums1[i],0)+1);
-7           // map1.put(nums1[i], map1.getOrDefault(nums1[i], 0) + 1);
+3        HashSet<Integer> set1=new HashSet<>();
+4        HashSet<Integer> set2=new HashSet<>();
+5
+6        for(int i:nums1)
+7            set1.add(i);
 8
-9        
-10        for(int x:nums2){
-11            if(map1.get(x)!=null)
-12                ans2++;
-13        }
-14
-15        HashMap<Integer,Integer> map2=new HashMap<>();
-16        for(int i=0;i<nums2.length;i++)
-17            map2.put(nums2[i],map2.getOrDefault(nums2[i],0)+1);
-18        
-19        for(int x:nums1){
-20            if(map2.get(x)!=null)
-21                ans1++;
-22        }
+9        for(int i:nums2)
+10            set2.add(i);
+11
+12        int ans1=0,ans2=0;
+13
+14        for(int i:nums1){
+15            if(set2.contains(i))
+16                ans1++;
+17        }
+18        for(int i:nums2){
+19            if(set1.contains(i))
+20                ans2++;
+21        }
+22
 23        return new int[]{ans1,ans2};
-24    }
-25        
-26}
-27
+24    }    
+25}
+26
