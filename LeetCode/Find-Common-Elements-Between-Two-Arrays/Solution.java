@@ -24,3 +24,18 @@
 24    }    
 25}
 26
+27// nums1 → Set1
+28// nums2 → Set2
+29
+30// nums1 elements
+31//       ↓
+32// Check Set2
+33//       ↓
+34// Found → ans1++
+35
+36// nums2 elements
+37//       ↓
+38// Check Set1
+39//       ↓
+40// Found → ans2++
+41
