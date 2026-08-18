@@ -6,3 +6,15 @@
 6    return true;
 7  }
 8}
+9
+10// 1. Start from the second element.
+11
+12// 2. Compare every element with the previous element.
+13
+14// 3. Find remainder when both are divided by 2.
+15
+16// 4. If both remainders are SAME:
+17//        return false
+18
+19// 5. If all adjacent elements have different remainders:
+20//        return true
