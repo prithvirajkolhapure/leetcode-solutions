@@ -19,3 +19,17 @@
 19        return result;
 20    }
 21}
+22
+23// nums1
+24//   ↓
+25// Put everything in Set
+26//   ↓
+27// nums2
+28//   ↓
+29// Check each element in Set
+30//   ↓
+31// If present → put in ans
+32//   ↓
+33// Convert ans → array
+34//   ↓
+35// Return
